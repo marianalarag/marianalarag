@@ -14,9 +14,5 @@ A highly motivated and responsible software
  agility, I approach challenges with perseverance and
  organization
 
-
-## GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marianalarag&theme=dracula)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianalarag&layout=compact&theme=dracula)
 
