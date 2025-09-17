@@ -14,5 +14,5 @@ A highly motivated and responsible software
  agility, I approach challenges with perseverance and
  organization
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianalarag&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianalarag&layout=compact&theme=tokyonight)
 
