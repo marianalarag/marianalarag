@@ -21,10 +21,7 @@ I'm a Software Engineering student passionate about technology, software develop
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-| | |
-|:-:|:-:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianalarag&theme=github_dark) | 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianalarag&theme=github_dark)
 
 ---
 
