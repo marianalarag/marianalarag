@@ -14,4 +14,4 @@ A highly motivated and responsible software
  agility, I approach challenges with perseverance and
  organization
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianalarag&theme=github_dark)
+https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianalarag&theme=github_dark 
