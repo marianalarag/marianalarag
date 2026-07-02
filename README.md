@@ -9,7 +9,7 @@ I'm a Software Engineering student passionate about technology, software develop
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,18 +22,10 @@ I'm a Software Engineering student passionate about technology, software develop
 
 ---
 
-## 📊 GitHub Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marianalarag&theme=github_dark)
-
 | | |
 |:-:|:-:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianalarag&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marianalarag&theme=github_dark) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianalarag&theme=github_dark) | ![](https://github-profile-summary-
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marianalarag&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marianalarag&theme=github_dark&utcOffset=-6) |
 
 ---
 
-
----
-
-⭐ Feel free to explore my repositories and connect with me!
