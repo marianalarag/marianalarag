@@ -24,8 +24,7 @@ I'm a Software Engineering student passionate about technology, software develop
 
 | | |
 |:-:|:-:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianalarag&theme=github_dark) | ![](https://github-profile-summary-
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marianalarag&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marianalarag&theme=github_dark&utcOffset=-6) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianalarag&theme=github_dark) | 
 
 ---
 
