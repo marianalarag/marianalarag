@@ -5,7 +5,7 @@
 I'm a Software Engineering student passionate about technology, software development, and continuous learning. I enjoy building projects that help me grow as a developer while exploring new tools and technologies.
 
 📧 **Email:** [marianalarag@outlook.com](mailto:marianalarag@outlook.com)  
-💼 **LinkedIn:** https://www.linkedin.com/in/mariana-lara-5a5b5b296/
+💼 **LinkedIn:** https://www.linkedin.com/in/marianalarag
 
 ---
 
