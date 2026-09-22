@@ -90,7 +90,7 @@
 <td width="55%" valign="middle">
 
 <a href="https://github.com/marianalarag/Coffe-Map">
-<img width="100%" src="./img/coffee-map.png" alt="Coffee Map Mérida" />
+<img width="100%" src="./coffee-map.png" alt="Coffee Map Mérida" />
 </a>
 
 </td>
@@ -169,7 +169,7 @@ The design reflects my interest in combining **software development, visual desi
 <td width="55%" valign="middle">
 
 <a href="https://marianalara.dev">
-<img width="100%" src="./img/portfolio.png" alt="Mariana Lara Portfolio" />
+<img width="100%" src="./portfolio.png" alt="Mariana Lara Portfolio" />
 </a>
 
 </td>
