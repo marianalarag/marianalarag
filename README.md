@@ -50,7 +50,7 @@
 
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -151,7 +151,7 @@ A social platform for discovering, saving, reviewing and sharing coffee shops ar
 
 <td width="45%" valign="top">
 
-### ✨ Personal Portfolio
+### Personal Portfolio
 
 My personal website showcasing my journey as a **Software Development student**, along with my projects, technical skills and professional experience.
 
@@ -207,7 +207,7 @@ The design reflects my interest in combining **software development, visual desi
 
 <td width="50%" valign="top">
 
-### 🚲 JC Bikes
+### JC Bikes
 
 Full-stack e-commerce platform focused on bicycle products and online shopping.
 
@@ -321,22 +321,6 @@ Mobile application developed while exploring **cross-platform mobile development
 | Responsive Interfaces | Figma Prototyping | Cloud Fundamentals |
 | REST API Integration | Accessibility | Deployment |
 | Full-Stack Projects | User-Centered Design | Supabase & Vercel |
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════ GITHUB ACTIVITY ══════════════════════ -->
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=marianalarag&bg_color=171721&color=E8E4F4&line=9B7EDE&point=B8A4FF&area=true&hide_border=false"
-  alt="Mariana Lara GitHub Activity"
-/>
 
 </div>
 
