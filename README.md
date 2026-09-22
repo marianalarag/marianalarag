@@ -2,18 +2,24 @@
 <!--                         MARIANA LARA                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171721,50:6C63FF,100:9B7EDE&height=200&section=header&text=Mariana%20Lara&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Development%20Student%20%7C%20Frontend%20%26%20UX%2FUI&descSize=18&descAlignY=58&descColor=E8E4F4" alt="Mariana Lara" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B7EDE&center=true&vCenter=true&width=700&lines=Frontend+Developer+%26+UX%2FUI+Enthusiast;React+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS;Building+intuitive+digital+experiences;Learning+Cloud+Computing+%26+Mobile+Development" alt="Typing SVG" />
+# Hi, I'm Mariana Lara 
+
+### Software Development Student · Frontend Developer · UX/UI
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-9B7EDE?style=for-the-badge&logo=vercel&logoColor=white)](https://marianalara.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianalarag)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:marianalarag@outlook.com)
-![Profile Views](https://komarev.com/ghpvc/?username=marianalarag&style=for-the-badge&color=9B7EDE&label=Profile+Views)
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B7EDE&center=true&vCenter=true&width=700&lines=Frontend+Development+%26+UX%2FUI;React+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS;Building+intuitive+digital+experiences;Learning+Cloud+Computing+%26+Mobile+Development"
+  alt="Frontend Development · UX/UI · Cloud Computing"
+/>
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-9B7EDE?style=for-the-badge&logo=vercel&logoColor=white)](https://marianalara.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianalarag)
+[![Email](https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:marianalarag@outlook.com)
 
 </div>
 
@@ -21,7 +27,7 @@
 
 <!-- ══════════════════════ ABOUT ME ══════════════════════ -->
 
-## About Me
+## 👩‍💻 About Me
 
 > Hi! I'm **Mariana Lara**, a Software Development student focused on **Frontend Development and UX/UI Design**.
 >
@@ -44,7 +50,7 @@
 
 <!-- ══════════════════════ TECH STACK ══════════════════════ -->
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -82,15 +88,21 @@
 
 <!-- ══════════════════════ FEATURED PROJECTS ══════════════════════ -->
 
-## Featured Projects
+## 🚀 Featured Projects
+
+<!-- ══════════════════════ COFFEE MAP ══════════════════════ -->
 
 <table width="100%">
 <tr>
 
 <td width="55%" valign="middle">
 
-<a href="https://github.com/marianalarag/Coffe-Map">
-<img width="100%" src="./coffee-map.png" alt="Coffee Map Mérida" />
+<a href="https://coffe-map-khaki.vercel.app/">
+  <img
+    width="100%"
+    src="./coffee-map.png"
+    alt="Coffee Map Mérida"
+  />
 </a>
 
 </td>
@@ -119,9 +131,11 @@ A social platform for discovering, saving, reviewing and sharing coffee shops ar
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 
-<br/>
+<br/><br/>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marianalarag/Coffe-Map)
+[![Visit Coffee Map](https://img.shields.io/badge/Visit_Coffee_Map-9B7EDE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://coffe-map-khaki.vercel.app/)
+
+[![View Repository](https://img.shields.io/badge/View_Repository-171721?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marianalarag/Coffe-Map)
 
 </td>
 
@@ -158,7 +172,7 @@ The design reflects my interest in combining **software development, visual desi
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<br/>
+<br/><br/>
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-9B7EDE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marianalara.dev)
 
@@ -169,7 +183,11 @@ The design reflects my interest in combining **software development, visual desi
 <td width="55%" valign="middle">
 
 <a href="https://marianalara.dev">
-<img width="100%" src="./portfolio.png" alt="Mariana Lara Portfolio" />
+  <img
+    width="100%"
+    src="./portfolio.png"
+    alt="Mariana Lara Portfolio"
+  />
 </a>
 
 </td>
@@ -181,7 +199,7 @@ The design reflects my interest in combining **software development, visual desi
 
 <!-- ══════════════════════ MORE PROJECTS ══════════════════════ -->
 
-## More Projects
+## 💻 More Projects
 
 <table width="100%">
 
@@ -206,7 +224,7 @@ Full-stack e-commerce platform focused on bicycle products and online shopping.
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<br/>
+<br/><br/>
 
 [![Repository](https://img.shields.io/badge/View_Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marianalarag/JC-Bikes)
 
@@ -231,7 +249,7 @@ Full-stack project created to explore authentication, APIs and product managemen
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<br/>
+<br/><br/>
 
 [![Repository](https://img.shields.io/badge/View_Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marianalarag/market-app)
 
@@ -257,7 +275,7 @@ Cinema interface project focused on **frontend development and user experience**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![UX/UI](https://img.shields.io/badge/UX%2FUI-9B7EDE?style=flat-square&logo=figma&logoColor=white)
 
-<br/>
+<br/><br/>
 
 [![Repository](https://img.shields.io/badge/View_Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marianalarag/Cine-UX-UI)
 
@@ -279,7 +297,7 @@ Mobile application developed while exploring **cross-platform mobile development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-<br/>
+<br/><br/>
 
 [![Repository](https://img.shields.io/badge/View_Repository-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marianalarag/donut_app_2a_lara)
 
@@ -293,7 +311,7 @@ Mobile application developed while exploring **cross-platform mobile development
 
 <!-- ══════════════════════ EXPERIENCE ══════════════════════ -->
 
-## Experience & Focus
+## 🎯 Experience & Focus
 
 <div align="center">
 
@@ -310,7 +328,7 @@ Mobile application developed while exploring **cross-platform mobile development
 
 <!-- ══════════════════════ GITHUB ACTIVITY ══════════════════════ -->
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -326,7 +344,7 @@ Mobile application developed while exploring **cross-platform mobile development
 
 <!-- ══════════════════════ CURRENT GOALS ══════════════════════ -->
 
-## Current Goals
+## 🌱 Current Goals
 
 ```text
 🎨 Create intuitive and accessible user experiences
@@ -340,7 +358,7 @@ Mobile application developed while exploring **cross-platform mobile development
 
 <!-- ══════════════════════ CONNECT ══════════════════════ -->
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -352,18 +370,10 @@ I'm always interested in learning, collaborating and building new things.
 [![LinkedIn](https://img.shields.io/badge/Mariana_Lara-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianalarag)
 [![Email](https://img.shields.io/badge/Contact_Me-8B5CF6?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:marianalarag@outlook.com)
 
-</div>
-
-<br/>
-
-<!-- ══════════════════════ FOOTER ══════════════════════ -->
-
-<div align="center">
+<br/><br/>
 
 ### Thanks for visiting my profile! 💜
 
 *"Designing experiences, building solutions and always learning."*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9B7EDE,50:6C63FF,100:171721&height=120&section=footer" alt="Footer" />
