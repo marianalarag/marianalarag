@@ -27,7 +27,7 @@
 
 <!-- ══════════════════════ ABOUT ME ══════════════════════ -->
 
-## 👩‍💻 About Me
+## About Me
 
 > Hi! I'm **Mariana Lara**, a Software Development student focused on **Frontend Development and UX/UI Design**.
 >
@@ -39,12 +39,12 @@
 
 <br/>
 
-- 💻 **Currently focused on:** Frontend Development & UX/UI
-- ☁️ **Learning:** Cloud Computing & AWS
-- 📱 **Exploring:** Mobile Development with Flutter & Capacitor
-- 🎨 **Interested in:** Accessible interfaces and user-centered design
-- 🚀 **Building:** Web and mobile experiences with real-world applications
-- 📍 **Based in:** Mérida, Yucatán, México
+- **Currently focused on:** Frontend Development & UX/UI
+- **Learning:** Cloud Computing & AWS
+- **Exploring:** Mobile Development with Flutter & Capacitor
+- **Interested in:** Accessible interfaces and user-centered design
+- **Building:** Web and mobile experiences with real-world applications
+
 
 <br/>
 
@@ -88,7 +88,7 @@
 
 <!-- ══════════════════════ FEATURED PROJECTS ══════════════════════ -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <!-- ══════════════════════ COFFEE MAP ══════════════════════ -->
 
@@ -109,19 +109,19 @@
 
 <td width="45%" valign="top">
 
-### ☕ Coffee Map Mérida
+### Coffee Map Mérida
 
 A social platform for discovering, saving, reviewing and sharing coffee shops around **Mérida, Yucatán**.
 
-- 🗺️ Interactive map focused on Mérida
-- ❤️ Favorites and visited coffee shops
-- 🔖 Personal coffee shop wishlist
-- ⭐ Ratings and personal reviews
-- 📸 Community posts and photo galleries
-- 🛠️ Administrative dashboard
-- 🔐 Authentication with Supabase
-- 📊 Moderation and management tools
-- 📱 PWA, Android & iOS architecture
+- Interactive map focused on Mérida
+- Favorites and visited coffee shops
+- Personal coffee shop wishlist
+- Ratings and personal reviews
+- Community posts and photo galleries
+- Administrative dashboard
+- Authentication with Supabase
+- Moderation and management tools
+- PWA, Android & iOS architecture
 
 <br/>
 
@@ -157,13 +157,13 @@ My personal website showcasing my journey as a **Software Development student**,
 
 The design reflects my interest in combining **software development, visual design and user experience**.
 
-- 🎨 Custom UX/UI design
-- ⚛️ Built with React
-- 📱 Responsive interface
-- ✨ Smooth visual experience
-- 💼 Professional experience
-- 🚀 Featured software projects
-- 🧑‍💻 Personal developer branding
+- Custom UX/UI design
+- Built with React
+- Responsive interface
+- Smooth visual experience
+- Professional experience
+- Featured software projects
+- Personal developer branding
 
 <br/>
 
@@ -199,7 +199,7 @@ The design reflects my interest in combining **software development, visual desi
 
 <!-- ══════════════════════ MORE PROJECTS ══════════════════════ -->
 
-## 💻 More Projects
+## More Projects
 
 <table width="100%">
 
@@ -232,7 +232,7 @@ Full-stack e-commerce platform focused on bicycle products and online shopping.
 
 <td width="50%" valign="top">
 
-### 🛒 Market App
+### Market App
 
 Full-stack project created to explore authentication, APIs and product management.
 
@@ -261,7 +261,7 @@ Full-stack project created to explore authentication, APIs and product managemen
 
 <td width="50%" valign="top">
 
-### 🎬 Cine UX/UI
+### Cine UX/UI
 
 Cinema interface project focused on **frontend development and user experience**.
 
@@ -283,7 +283,7 @@ Cinema interface project focused on **frontend development and user experience**
 
 <td width="50%" valign="top">
 
-### 🍩 Donut App
+### Donut App
 
 Mobile application developed while exploring **cross-platform mobile development with Flutter**.
 
@@ -311,11 +311,11 @@ Mobile application developed while exploring **cross-platform mobile development
 
 <!-- ══════════════════════ EXPERIENCE ══════════════════════ -->
 
-## 🎯 Experience & Focus
+## Experience & Focus
 
 <div align="center">
 
-| 💻 Development | 🎨 Design | ☁️ Cloud |
+| Development | Design | Cloud |
 |:---:|:---:|:---:|
 | React & JavaScript | UX/UI Design | AWS |
 | Responsive Interfaces | Figma Prototyping | Cloud Fundamentals |
@@ -344,21 +344,21 @@ Mobile application developed while exploring **cross-platform mobile development
 
 <!-- ══════════════════════ CURRENT GOALS ══════════════════════ -->
 
-## 🌱 Current Goals
+## Current Goals
 
 ```text
-🎨 Create intuitive and accessible user experiences
-⚛️ Keep growing as a Frontend Developer
-☁️ Strengthen my Cloud Computing knowledge
-📱 Explore cross-platform mobile development
-🚀 Build products that solve real-world problems
+Create intuitive and accessible user experiences
+Keep growing as a Frontend Developer
+Strengthen my Cloud Computing knowledge
+Explore cross-platform mobile development
+Build products that solve real-world problems
 ```
 
 <br/>
 
 <!-- ══════════════════════ CONNECT ══════════════════════ -->
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
